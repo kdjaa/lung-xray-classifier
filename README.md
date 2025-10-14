@@ -8,7 +8,7 @@ It uses pre-trained CNN architectures for feature extraction and fine-tuning to 
 
 ---
 
-### ⚙️ Model & Techniques
+### ⚙️ Models & Techniques
 - **Base Models:** DenseNet121, ResNet50, or EfficientNetB0 (fine-tuned on the dataset)
 - **Libraries:** TensorFlow, Keras, OpenCV, NumPy, Matplotlib
 - **Data Augmentation:** Random rotations, flips, and rescaling
